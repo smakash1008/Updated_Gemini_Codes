@@ -1,0 +1,50 @@
+{
+    "Name": "Abinaya",
+    "Email Address": "abinaya811994@gmail.com",
+    "Phone Number": "9952095188",
+    "Skills": [
+        "Java",
+        "JavaScript",
+        "Postman",
+        "Rest Assured",
+        "Axios",
+        "Selenium WebDriver",
+        "WebDriverIO",
+        "Playwright",
+        "GitHub Actions",
+        "JMeter",
+        "PostmanRunner",
+        "JIRA",
+        "Confluence",
+        "Qase",
+        "Scrum",
+        "POM",
+        "JUnit",
+        "TestNG",
+        "GitHub",
+        "Burp suite"
+    ],
+    "Total Years Of Experience": "8",
+    "Work Domain": [
+        "IT"
+    ],
+    "Work Experience": [
+        "Full Creative"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": "NOT AVAILABLE",
+    "Education Details": [
+        {
+            "Educational Institution": "Agni College Of Technology, Tharamani, Chennai",
+            "Education Course": "Bachelor of Technology in Information Technology",
+            "Education Branch": "Information Technology",
+            "Graduation Year": "2015",
+            "Exam Percentage": "NOT AVAILABLE"
+        }
+    ],
+    "Courses and Certification": [],
+    "Project Details": []
+}

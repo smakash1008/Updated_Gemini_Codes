@@ -1,0 +1,150 @@
+{
+    "Name": "Mayank Agarwal",
+    "Email Address": "mayanka512@gmail.com",
+    "Phone Number": "9560186741",
+    "Skills": [
+        "UNIX",
+        "Linux",
+        "ORACLE Server",
+        "GoldenGate",
+        "Exadata",
+        "Shell scripting",
+        "Toad",
+        "SQL*PLUS",
+        "RMAN",
+        "Datapump",
+        "Service Now",
+        "Remedy"
+    ],
+    "Total Years Of Experience": "10.5",
+    "Work Domain": [
+        "DBA"
+    ],
+    "Work Experience": [
+        "Oracle Solution Service India",
+        "HCL Technologies",
+        "Wipro Ltd",
+        "Tech Mahindra",
+        "Infogain India Pvt Ltd"
+    ],
+    "Date of Birth": "5 Dec 1988",
+    "Gender": "Male",
+    "Marital Status": "Married",
+    "Nationality": "Indian",
+    "Languages": "NOT AVAILABLE",
+    "Education Details": [
+        {
+            "Educational Institution": "Moradabad Institute of Technology, Moradabad. Affiliated to UP Technical University, Lucknow, U.P.",
+            "Education Course": "Bachelor of Technology (Electronics & Comm.)",
+            "Education Branch": "Electronics & Comm",
+            "Graduation Year": "2010",
+            "Exam Percentage": "65%"
+        },
+        {
+            "Educational Institution": "G.D. Birla Memorial School, Ranikhet",
+            "Education Course": "Intermediate",
+            "Education Branch": "NOT AVAILABLE",
+            "Graduation Year": "NOT AVAILABLE",
+            "Exam Percentage": "77%"
+        },
+        {
+            "Educational Institution": "Saraf Public School, Khatima",
+            "Education Course": "Matriculation",
+            "Education Branch": "NOT AVAILABLE",
+            "Graduation Year": "NOT AVAILABLE",
+            "Exam Percentage": "64.2%"
+        }
+    ],
+    "Courses and Certification": [
+        "Oracle Database Administration 2019 Certified Professional",
+        "Oracle GoldenGate 12c Certified Implementation Specialist",
+        "Oracle Cloud Infrastructure 2023 Certified Architect Associate"
+    ],
+    "Project Details": [
+        {
+            "Project Name": "Project 1",
+            "Project Description": "Installation and Configuration of GoldenGate 21c Microservices. Configuration of replication process between ExaCC (Source database) to Exadata (Target Database).",
+            "Project Roles": "Principal Consultant",
+            "Project Duration": "Oct'2023 to till date",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "GoldenGate 21c",
+                "ExaCC",
+                "Exadata",
+                "GoldenGate Veridata 12.2.1.4.0"
+            ]
+        },
+        {
+            "Project Name": "Project 2",
+            "Project Description": "Managing Oracle Database version 11g, 12c, 19c on both RAC, Standalone, Exadata. Managing Active Dataguard & Physical Standby.",
+            "Project Roles": "Associate Consultant",
+            "Project Duration": "Jan'2022 to till date",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle Database version 11g",
+                "12c",
+                "19c",
+                "RAC",
+                "Standalone",
+                "Exadata",
+                "Active Dataguard",
+                "Physical Standby",
+                "Goldengate version 12c",
+                "19c"
+            ]
+        },
+        {
+            "Project Name": "Project 3",
+            "Project Description": "Managing Oracle Database version 10g, 11g, 12c, 19c on both RAC, Standalone, ExaCM. Managing Active Dataguard & Physical Standby.",
+            "Project Roles": "Lead DBA",
+            "Project Duration": "April 2019 - Sept'2021",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle Database version 10g",
+                "11g",
+                "12c",
+                "19c",
+                "RAC",
+                "Standalone",
+                "ExaCM",
+                "Active Dataguard",
+                "Physical Standby",
+                "Goldengate version 12c",
+                "19c"
+            ]
+        },
+        {
+            "Project Name": "Project 4",
+            "Project Description": "Managing Oracle Database version 11g, 12c on both RAC, Standalone. Managing Active Dataguard & Physical Standby.",
+            "Project Roles": "Technical Consultant",
+            "Project Duration": "May 2016 - April 2019",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle Database version 11g",
+                "12c",
+                "RAC",
+                "Standalone",
+                "Active Dataguard",
+                "Physical Standby",
+                "Goldengate version 12c"
+            ]
+        },
+        {
+            "Project Name": "Project 5",
+            "Project Description": "Managing Oracle Database version 10g, 11g on both RAC, Standalone, Exadata. Managing Active Dataguard & Physical Standby.",
+            "Project Roles": "ORACLE DBA",
+            "Project Duration": "Nov'2013 - April 2016",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Oracle Database version 10g",
+                "11g",
+                "RAC",
+                "Standalone",
+                "Exadata",
+                "Active Dataguard",
+                "Physical Standby",
+                "Goldengate version 12c"
+            ]
+        }
+    ]
+}
