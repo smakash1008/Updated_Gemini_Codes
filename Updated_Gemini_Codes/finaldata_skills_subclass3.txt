@@ -1,0 +1,76 @@
+{
+    "Name": "Abinaya",
+    "Email Address": "abinaya811994@gmail.com",
+    "Phone Number": "9952095188",
+    "Skills": {
+        "Programming Skills": [
+            "Java",
+            "JavaScript"
+        ],
+        "Automation Tools": {
+            "API Automation": [
+                "Postman",
+                "Rest Assured",
+                "Axios"
+            ],
+            "UI Automation": [
+                "Selenium WebDriver",
+                "WebDriverIO",
+                "Playwright"
+            ]
+        },
+        "CI/CD": [
+            "GitHub Actions"
+        ],
+        "Performance Testing": [
+            "JMeter",
+            "PostmanRunner"
+        ],
+        "Project/Test Management Tools": [
+            "JIRA",
+            "Confluence"
+        ],
+        "Defect Tracking": [
+            "JIRA"
+        ],
+        "Test Case Management": [
+            "Qase"
+        ],
+        "Agile Methodologies": [
+            "Scrum"
+        ],
+        "Testing Design Pattern": [
+            "POM"
+        ],
+        "Unit Test Frameworks": [
+            "JUnit",
+            "TestNG"
+        ],
+        "Version Control": [
+            "GitHub"
+        ],
+        "Security Tool": [
+            "Burp suite"
+        ]
+    },
+    "Total Years Of Experience": "8",
+    "Work Domain": "Software Testing",
+    "Work Experience": [
+        "Full Creative"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": "NOT AVAILABLE",
+    "Education Details": {
+        "Educational Institution": "Agni College Of Technology, Tharamani, Chennai",
+        "Education Course": "Bachelor of Technology in Information Technology",
+        "Education Branch": "Information Technology",
+        "Graduation Year": "2015",
+        "Exam Percentage": "NOT AVAILABLE"
+    },
+    "Courses and Certification": "NOT AVAILABLE",
+    "Project Details": "NOT AVAILABLE"
+}
+
